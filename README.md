@@ -1,6 +1,8 @@
-# .github
+<h1 align="center">.github</h1>
 
-Default community health files for [@effekt-labs](https://github.com/effekt-labs) organization.
+<p align="center">Community health files.</p>
+
+<br>
 
 ## License
 
